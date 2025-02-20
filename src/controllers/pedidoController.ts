@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import Pedido from "../models/Pedido"; // Supondo que você tenha um modelo Pedido
+import Pedido from "../models/Pedido"; //  modelo Pedido
 
 
 
